@@ -9,14 +9,14 @@ A lightweight iOS SDK for managing in-app subscriptions with your own backend. D
 Add SubscriptionKit to your project via Xcode:
 
 1. Go to **File → Add Package Dependencies**
-2. Enter: `https://github.com/jasoncameron/SubscriptionKit`
+2. Enter: `https://github.com/TrippleXed/SubscriptionKit`
 3. Select your target and click **Add Package**
 
 Or add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/jasoncameron/SubscriptionKit", from: "1.0.0")
+    .package(url: "https://github.com/TrippleXed/SubscriptionKit", from: "1.0.0")
 ]
 ```
 
